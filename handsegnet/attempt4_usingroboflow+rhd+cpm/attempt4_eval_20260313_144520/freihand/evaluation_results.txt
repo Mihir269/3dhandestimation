@@ -1,0 +1,20 @@
+============================================================
+Attempt4 Model Evaluation — FreiHAND
+============================================================
+
+Model : C:\Users\gunem\studying-2dto3d\handsegnet\attempt4_usingroboflow+rhd+cpm\..\attempt4_usingroboflow+rhd+cpm\trained_models\transfer_learning_20260309_014131\final_model.pth
+Images: 3960
+
+SEGMENTATION METRICS:
+────────────────────────────────────────────────────────────
+   pixel_acc: 0.9306 +/- 0.0331  (min 0.7121  max 0.9934)
+         iou: 0.2952 +/- 0.2771  (min 0.0000  max 0.8929)
+        dice: 0.3857 +/- 0.3312  (min 0.0000  max 0.9434)
+   precision: 0.6302 +/- 0.3922  (min 0.0000  max 1.0000)
+      recall: 0.3288 +/- 0.3181  (min 0.0000  max 1.0000)
+          f1: 0.3857 +/- 0.3312  (min 0.0000  max 0.9434)
+
+BOUNDING BOX DETECTION:
+────────────────────────────────────────────────────────────
+Detected    : 2776/3960 (70.10%)
+Not detected: 1184/3960

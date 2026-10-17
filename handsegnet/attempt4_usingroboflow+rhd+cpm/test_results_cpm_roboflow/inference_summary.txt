@@ -1,0 +1,59 @@
+============================================================
+TEST IMAGES INFERENCE RESULTS - HandSegNet CPM
+============================================================
+
+Model: C:\Users\gunem\studying-2dto3d\handsegnetnew\trained_models\transfer_learning_20260309_014131\best_model.pth
+Input directory: test_images
+Total images processed: 44
+
+HAND DETECTION STATISTICS:
+------------------------------------------------------------
+Hands Detected: 44/44 (100.00%)
+No Hand Detected: 0/44
+
+PROCESSED IMAGES:
+------------------------------------------------------------
+1. _1.jpeg
+2. _1.jpeg
+3. _2 .jpeg
+4. _2 .jpeg
+5. Photo on 3-6-26 at 7.09 PM.jpg.jpeg
+6. Photo on 3-6-26 at 7.09 PM.jpg.jpeg
+7. WhatsApp Image 2026-03-06 at 1.41.12 PM.jpeg
+8. WhatsApp Image 2026-03-06 at 1.41.12 PM.jpeg
+9. WhatsApp Image 2026-03-08 at 6.12.41 PM.jpeg
+10. WhatsApp Image 2026-03-08 at 6.12.41 PM.jpeg
+11. WhatsApp Image 2026-03-08 at 6.12.42 PM.jpeg
+12. WhatsApp Image 2026-03-08 at 6.12.42 PM.jpeg
+13. WIN_20260303_18_29_44_Pro.jpg
+14. WIN_20260303_18_29_44_Pro.jpg
+15. WIN_20260303_18_29_46_Pro.jpg
+16. WIN_20260303_18_29_46_Pro.jpg
+17. WIN_20260303_18_29_48_Pro.jpg
+18. WIN_20260303_18_29_48_Pro.jpg
+19. WIN_20260303_18_29_51_Pro.jpg
+20. WIN_20260303_18_29_51_Pro.jpg
+21. WIN_20260303_18_29_53_Pro.jpg
+22. WIN_20260303_18_29_53_Pro.jpg
+23. WIN_20260303_18_29_56_Pro.jpg
+24. WIN_20260303_18_29_56_Pro.jpg
+25. WIN_20260303_18_30_00_Pro.jpg
+26. WIN_20260303_18_30_00_Pro.jpg
+27. WIN_20260303_18_30_04_Pro.jpg
+28. WIN_20260303_18_30_04_Pro.jpg
+29. WIN_20260303_18_30_06_Pro.jpg
+30. WIN_20260303_18_30_06_Pro.jpg
+31. WIN_20260303_18_30_15_Pro.jpg
+32. WIN_20260303_18_30_15_Pro.jpg
+33. WIN_20260303_18_30_17_Pro.jpg
+34. WIN_20260303_18_30_17_Pro.jpg
+35. WIN_20260303_18_30_21_Pro.jpg
+36. WIN_20260303_18_30_21_Pro.jpg
+37. WIN_20260303_18_30_25_Pro.jpg
+38. WIN_20260303_18_30_25_Pro.jpg
+39. WIN_20260303_18_30_27_Pro.jpg
+40. WIN_20260303_18_30_27_Pro.jpg
+41. WIN_20260303_18_30_29_Pro.jpg
+42. WIN_20260303_18_30_29_Pro.jpg
+43. WIN_20260303_18_30_31_Pro.jpg
+44. WIN_20260303_18_30_31_Pro.jpg

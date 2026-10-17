@@ -1,0 +1,13 @@
+============================================================
+ATTEMPT6 FINAL MODEL - CROSS-DATASET COMPARISON
+Model: C:\Users\gunem\studying-2dto3d\handsegnet\attempt6_sequential_freihand_roboflow\phase2_roboflow_20260313_220707\final_model.pth
+============================================================
+
+Metric           FreiHAND        RHD
+----------------------------------
+pixel_acc          0.9473     0.9706
+iou                0.4757     0.1713
+dice               0.5967     0.2326
+precision          0.8105     0.4440
+recall             0.5326     0.1921
+f1                 0.5967     0.2326

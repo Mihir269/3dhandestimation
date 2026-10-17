@@ -1,0 +1,18 @@
+{
+  "marker_kind": "outline_square",
+  "square_mm": 30.0,
+  "n_files": 18,
+  "n_frames_seen": 43,
+  "n_frames_used": 7,
+  "mediapipe_backend": "tasks",
+  "map_methods": {
+    "scale_field": 140
+  },
+  "mean_cv_pct": 1.5436444948795238,
+  "reference_bone": "Middle_MCP_PIP",
+  "reference_mm": 51.320823669433594,
+  "parallax": {
+    "mode": "failed",
+    "reason": "no EXIF focal length / too few frames"
+  }
+}

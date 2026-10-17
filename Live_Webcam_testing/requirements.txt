@@ -1,0 +1,6 @@
+opencv-contrib-python
+matplotlib
+numpy
+absl-py~=2.3
+flatbuffers~=25.9
+sounddevice~=0.5

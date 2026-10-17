@@ -1,0 +1,30 @@
+======================================================================
+ATTEMPT 6 — Final Iteration: Combined 40/40/20 Training
+======================================================================
+
+Initial weights  : C:\Users\gunem\studying-2dto3d\handsegnet\attempt6_sequential_freihand_roboflow\phase2_roboflow_20260313_220707\final_model.pth
+RHD images       : 41258  (sampled 598 per epoch = 40%)
+FreiHAND images  : 32560  (sampled 598 per epoch = 40%)
+Roboflow images  : 299  (all 299 per epoch = 20%)
+Total per epoch  : 1495
+Batch size       : 6
+Learning rate    : 5e-05
+Epochs           : 10
+Device           : cuda
+
+ Epoch   Train Loss    Train IoU     Val Loss      Val IoU
+------------------------------------------------------------
+     1     0.076582       0.6843     0.071259       0.7062
+     2     0.067598       0.7347     0.062199       0.7433
+     3     0.059555       0.7534     0.051325       0.7726
+     4     0.053111       0.7756     0.057217       0.7612
+     5     0.052534       0.7873     0.050678       0.7847
+     6     0.052337       0.7874     0.048695       0.7926
+     7     0.049867       0.7947     0.045752       0.8028
+     8     0.047714       0.8047     0.045400       0.8113
+     9     0.047139       0.8064     0.047236       0.8099
+    10     0.046628       0.8034     0.047831       0.8102
+
+Best val loss : 0.045400
+Best model    : C:\Users\gunem\studying-2dto3d\handsegnet\attempt6_sequential_freihand_roboflow\final_combined_20260314_020453\best_model.pth
+Final model   : C:\Users\gunem\studying-2dto3d\handsegnet\attempt6_sequential_freihand_roboflow\final_combined_20260314_020453\final_model.pth

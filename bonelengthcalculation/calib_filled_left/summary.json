@@ -1,0 +1,14 @@
+{
+  "marker_kind": "filled_colour_square",
+  "square_mm": 20.0,
+  "n_files": 18,
+  "n_frames_seen": 49,
+  "n_frames_used": 17,
+  "mediapipe_backend": "tasks",
+  "map_methods": {
+    "homography": 340
+  },
+  "mean_cv_pct": 1.4447584611631694,
+  "reference_bone": "Middle_MCP_PIP",
+  "reference_mm": 51.86672592163086
+}

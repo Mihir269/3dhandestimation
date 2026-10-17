@@ -1,0 +1,119 @@
+{
+  "schema": "hand_calibration_ekf/v1",
+  "unit": "mm",
+  "hand": "Left",
+  "chirality": "Right",
+  "mirrored_to_right": true,
+  "lengths_mm": {
+    "Thumb_Wrist-CMC": 46.20568084716797,
+    "Thumb_CMC-MCP": 39.66073036193848,
+    "Thumb_MCP-IP": 37.63688278198242,
+    "Thumb_IP-Tip": 26.642671585083008,
+    "Index_Wrist-MCP": 95.98210906982422,
+    "Index_MCP-PIP": 47.722713470458984,
+    "Index_PIP-DIP": 28.5329532623291,
+    "Index_DIP-Tip": 23.356738090515137,
+    "Middle_Wrist-MCP": 91.79000091552734,
+    "Middle_MCP-PIP": 51.86672592163086,
+    "Middle_PIP-DIP": 30.8016357421875,
+    "Middle_DIP-Tip": 23.018829345703125,
+    "Ring_Wrist-MCP": 86.54923248291016,
+    "Ring_MCP-PIP": 47.12569046020508,
+    "Ring_PIP-DIP": 28.85124111175537,
+    "Ring_DIP-Tip": 21.63477325439453,
+    "Pinky_Wrist-MCP": 79.455078125,
+    "Pinky_MCP-PIP": 37.20195007324219,
+    "Pinky_PIP-DIP": 23.685691833496094,
+    "Pinky_DIP-Tip": 20.13813591003418
+  },
+  "palm_dirs": [
+    [
+      -0.9965541631002779,
+      -0.08294455983067664,
+      0.0
+    ],
+    [
+      -0.5911875565497773,
+      -0.80653411147868,
+      0.0
+    ],
+    [
+      -0.33778792884332226,
+      -0.9412222453415233,
+      0.0
+    ],
+    [
+      -0.06566558775007407,
+      -0.9978416861323429,
+      0.0
+    ],
+    [
+      0.21179866228970967,
+      -0.9773133206143716,
+      0.0
+    ]
+  ],
+  "palm_dirs_measured": true,
+  "median_tilt_deg": {
+    "Thumb_Wrist-CMC": 5.1281938552856445,
+    "Thumb_CMC-MCP": 3.832880735397339,
+    "Thumb_MCP-IP": 12.123344421386719,
+    "Thumb_IP-Tip": 3.575131893157959,
+    "Index_Wrist-MCP": 12.745282173156738,
+    "Index_MCP-PIP": 19.10500717163086,
+    "Index_PIP-DIP": 22.887372970581055,
+    "Index_DIP-Tip": 19.307594299316406,
+    "Middle_Wrist-MCP": 11.578259468078613,
+    "Middle_MCP-PIP": 17.926243782043457,
+    "Middle_PIP-DIP": 11.812115669250488,
+    "Middle_DIP-Tip": 32.076480865478516,
+    "Ring_Wrist-MCP": 14.192865371704102,
+    "Ring_MCP-PIP": 20.823719024658203,
+    "Ring_PIP-DIP": 13.667667388916016,
+    "Ring_DIP-Tip": 26.70088005065918,
+    "Pinky_Wrist-MCP": 12.052802085876465,
+    "Pinky_MCP-PIP": 11.125333786010742,
+    "Pinky_PIP-DIP": 6.94595193862915,
+    "Pinky_DIP-Tip": 3.63779878616333
+  },
+  "provenance": {
+    "Thumb_Wrist-CMC": "calib_filled_left",
+    "Thumb_CMC-MCP": "calib_filled_left",
+    "Thumb_MCP-IP": "calib_filled_left",
+    "Thumb_IP-Tip": "calib_filled_left",
+    "Index_Wrist-MCP": "calib_filled_left",
+    "Index_MCP-PIP": "calib_filled_left",
+    "Index_PIP-DIP": "calib_filled_left",
+    "Index_DIP-Tip": "calib_filled_left",
+    "Middle_Wrist-MCP": "calib_filled_left",
+    "Middle_MCP-PIP": "calib_filled_left",
+    "Middle_PIP-DIP": "calib_filled_left",
+    "Middle_DIP-Tip": "calib_filled_left",
+    "Ring_Wrist-MCP": "calib_filled_left",
+    "Ring_MCP-PIP": "calib_filled_left",
+    "Ring_PIP-DIP": "calib_filled_left",
+    "Ring_DIP-Tip": "calib_filled_left",
+    "Pinky_Wrist-MCP": "calib_filled_left",
+    "Pinky_MCP-PIP": "calib_filled_left",
+    "Pinky_PIP-DIP": "calib_filled_left",
+    "Pinky_DIP-Tip": "calib_filled_left"
+  },
+  "tilt_corrected": false,
+  "source_summary": {
+    "marker_kind": "filled_colour_square",
+    "square_mm": 20.0,
+    "n_files": 18,
+    "n_frames_seen": 49,
+    "n_frames_used": 17,
+    "mediapipe_backend": "tasks",
+    "map_methods": {
+      "homography": 340
+    },
+    "mean_cv_pct": 1.4447584611631694,
+    "reference_bone": "Middle_MCP_PIP",
+    "reference_mm": 51.86672592163086
+  },
+  "hand_length_mm": 197.47719192504883,
+  "reference_bone": "Middle_MCP-PIP",
+  "reference_mm": 51.86672592163086
+}

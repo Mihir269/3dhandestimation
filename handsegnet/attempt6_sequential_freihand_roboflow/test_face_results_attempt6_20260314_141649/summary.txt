@@ -1,0 +1,21 @@
+============================================================
+ATTEMPT6 FINAL MODEL - FACE/NO-FACE TEST RESULTS
+Model: C:\Users\gunem\studying-2dto3d\handsegnet\attempt6_sequential_freihand_roboflow\phase2_roboflow_20260313_220707\final_model.pth
+============================================================
+
+Split: with_face
+────────────────────────────────────────────────────────────
+  Input dir     : C:/Users/gunem/studying-2dto3d/alldata/Test_Images_with_face
+  Total images  : 19
+  Detected      : 19
+  Not detected  : 0
+  Detection rate: 100.0%
+
+Split: without_face
+────────────────────────────────────────────────────────────
+  Input dir     : C:/Users/gunem/studying-2dto3d/alldata/test_Images_without_face
+  Total images  : 8
+  Detected      : 8
+  Not detected  : 0
+  Detection rate: 100.0%
+

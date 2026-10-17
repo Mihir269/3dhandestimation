@@ -1,0 +1,30 @@
+======================================================================
+ATTEMPT 6 — Phase 2: Roboflow Fine-tuning Report
+======================================================================
+
+Initial weights  : C:\Users\gunem\studying-2dto3d\handsegnet\attempt6_sequential_freihand_roboflow\trained_models_20260313_155930\model_after_freihand.pth
+Roboflow images  : 299
+Train / Val      : 239 / 60
+Batch size       : 6
+Learning rate    : 0.0001
+Epochs           : 12
+Device           : cuda
+
+ Epoch   Train Loss    Train IoU     Val Loss      Val IoU
+------------------------------------------------------------
+     1     0.267099       0.1436     0.232924       0.2737
+     2     0.188598       0.2886     0.194983       0.3659
+     3     0.170058       0.3454     0.186866       0.3335
+     4     0.165036       0.3960     0.184282       0.3646
+     5     0.160864       0.4066     0.177459       0.4107
+     6     0.143585       0.4527     0.172347       0.4667
+     7     0.144711       0.4512     0.172139       0.4491
+     8     0.140882       0.4819     0.184669       0.4273
+     9     0.136205       0.4969     0.182183       0.4167
+    10     0.129373       0.5182     0.174661       0.4285
+    11     0.131401       0.5061     0.169754       0.4855
+    12     0.120813       0.5656     0.174896       0.4621
+
+Best val loss : 0.169754
+Best model    : C:\Users\gunem\studying-2dto3d\handsegnet\attempt6_sequential_freihand_roboflow\phase2_roboflow_20260313_220707\best_model.pth
+Final model   : C:\Users\gunem\studying-2dto3d\handsegnet\attempt6_sequential_freihand_roboflow\phase2_roboflow_20260313_220707\final_model.pth

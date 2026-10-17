@@ -1,0 +1,61 @@
+# Virtual environments
+.venv/
+venv/
+myenv/
+env/
+**/.venv/
+**/myenv/
+
+# Secrets / local config (keep templates)
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Datasets (large; download separately, see README)
+alldata/
+datasets/
+**/datasets/
+**/cropped_dataset/
+*.zip
+
+# Generated outputs
+output_*/
+outputs/
+webcam_screenshots/
+kalman_filtering/output/
+Live_Webcam_testing/output/
+Live_Webcam_testing/*.mp4
+**/runs/
+**/logs/
+*.mp4
+*.avi
+
+# Training checkpoints (keep final models only)
+**/checkpoints/
+epoch_*.pth
+
+# Unrelated hackathon project (has its own git repos)
+Hackathon/
+final_hackathon/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# HandSegNet experiment artefacts (thousands of generated images / duplicate weights)
+handsegnet/**/*.png
+handsegnet/**/*.jpg
+handsegnet/**/*.jpeg
+final_model.pth
+model_after_*.pth

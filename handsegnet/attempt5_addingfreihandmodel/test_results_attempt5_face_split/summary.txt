@@ -1,0 +1,29 @@
+ATTEMPT5 TEST RESULTS (WITH FACE / WITHOUT FACE)
+========================================================================
+
+Model: C:\Users\gunem\studying-2dto3d\handsegnet\attempt5_addingfreihandmodel\trained_models\freihand_finetune_20260313_003315\best_model.pth
+Device: cuda
+Threshold: 0.5
+Min area: 120.0
+Created at: 2026-03-13T13:50:44
+
+Split: with_face
+------------------------------------------------------------------------
+Input dir: C:\Users\gunem\studying-2dto3d\alldata\Test_Images_with_face
+Total images: 19
+Processed: 19
+Failed: 0
+Detected: 18
+Not detected: 1
+Detection rate: 94.74%
+
+Split: without_face
+------------------------------------------------------------------------
+Input dir: C:\Users\gunem\studying-2dto3d\alldata\test_Images_without_face
+Total images: 8
+Processed: 8
+Failed: 0
+Detected: 8
+Not detected: 0
+Detection rate: 100.00%
+

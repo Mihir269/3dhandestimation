@@ -1,0 +1,380 @@
+{
+  "model": "C:\\Users\\gunem\\studying-2dto3d\\handsegnet\\attempt6_sequential_freihand_roboflow\\phase2_roboflow_20260313_220707\\final_model.pth",
+  "device": "cuda",
+  "threshold": 0.5,
+  "min_area": 120,
+  "created_at": "2026-03-14T14:17:00",
+  "splits": [
+    {
+      "split": "with_face",
+      "input_dir": "C:/Users/gunem/studying-2dto3d/alldata/Test_Images_with_face",
+      "total": 19,
+      "detected": 19,
+      "not_detected": 0,
+      "detection_rate": 100.0,
+      "results": [
+        {
+          "file": "Photo on 3-6-26 at 7.09 PM.jpg.jpeg",
+          "status": "ok",
+          "detected": true,
+          "bbox": {
+            "x": 868,
+            "y": 293,
+            "w": 130,
+            "h": 120
+          },
+          "vis": "C:\\Users\\gunem\\studying-2dto3d\\handsegnet\\attempt6_sequential_freihand_roboflow\\test_face_results_attempt6_20260314_141649\\with_face\\visualizations\\0000_Photo_on_3-6-26_at_7.09PM.jpg.jpg",
+          "mask": "C:\\Users\\gunem\\studying-2dto3d\\handsegnet\\attempt6_sequential_freihand_roboflow\\test_face_results_attempt6_20260314_141649\\with_face\\masks\\0000_Photo_on_3-6-26_at_7.09PM.jpg.png"
+        },
+        {
+          "file": "WIN_20260303_18_29_44_Pro.jpg",
+          "status": "ok",
+          "detected": true,
+          "bbox": {
+            "x": 801,
+            "y": 430,
+            "w": 68,
+            "h": 47
+          },
+          "vis": "C:\\Users\\gunem\\studying-2dto3d\\handsegnet\\attempt6_sequential_freihand_roboflow\\test_face_results_attempt6_20260314_141649\\with_face\\visualizations\\0001_WIN_20260303_18_29_44_Pro.jpg",
+          "mask": "C:\\Users\\gunem\\studying-2dto3d\\handsegnet\\attempt6_sequential_freihand_roboflow\\test_face_results_attempt6_20260314_141649\\with_face\\masks\\0001_WIN_20260303_18_29_44_Pro.png"
+        },
+        {
+          "file": "WIN_20260303_18_29_46_Pro.jpg",
+          "status": "ok",
+          "detected": true,
+          "bbox": {
+            "x": 847,
+            "y": 387,
+            "w": 65,
+            "h": 67
+          },
+          "vis": "C:\\Users\\gunem\\studying-2dto3d\\handsegnet\\attempt6_sequential_freihand_roboflow\\test_face_results_attempt6_20260314_141649\\with_face\\visualizations\\0002_WIN_20260303_18_29_46_Pro.jpg",
+          "mask": "C:\\Users\\gunem\\studying-2dto3d\\handsegnet\\attempt6_sequential_freihand_roboflow\\test_face_results_attempt6_20260314_141649\\with_face\\masks\\0002_WIN_20260303_18_29_46_Pro.png"
+        },
+        {
+          "file": "WIN_20260303_18_29_48_Pro.jpg",
+          "status": "ok",
+          "detected": true,
+          "bbox": {
+            "x": 381,
+            "y": 349,
+            "w": 49,
+            "h": 82
+          },
+          "vis": "C:\\Users\\gunem\\studying-2dto3d\\handsegnet\\attempt6_sequential_freihand_roboflow\\test_face_results_attempt6_20260314_141649\\with_face\\visualizations\\0003_WIN_20260303_18_29_48_Pro.jpg",
+          "mask": "C:\\Users\\gunem\\studying-2dto3d\\handsegnet\\attempt6_sequential_freihand_roboflow\\test_face_results_attempt6_20260314_141649\\with_face\\masks\\0003_WIN_20260303_18_29_48_Pro.png"
+        },
+        {
+          "file": "WIN_20260303_18_29_51_Pro.jpg",
+          "status": "ok",
+          "detected": true,
+          "bbox": {
+            "x": 267,
+            "y": 197,
+            "w": 118,
+            "h": 147
+          },
+          "vis": "C:\\Users\\gunem\\studying-2dto3d\\handsegnet\\attempt6_sequential_freihand_roboflow\\test_face_results_attempt6_20260314_141649\\with_face\\visualizations\\0004_WIN_20260303_18_29_51_Pro.jpg",
+          "mask": "C:\\Users\\gunem\\studying-2dto3d\\handsegnet\\attempt6_sequential_freihand_roboflow\\test_face_results_attempt6_20260314_141649\\with_face\\masks\\0004_WIN_20260303_18_29_51_Pro.png"
+        },
+        {
+          "file": "WIN_20260303_18_29_53_Pro.jpg",
+          "status": "ok",
+          "detected": true,
+          "bbox": {
+            "x": 270,
+            "y": 290,
+            "w": 100,
+            "h": 126
+          },
+          "vis": "C:\\Users\\gunem\\studying-2dto3d\\handsegnet\\attempt6_sequential_freihand_roboflow\\test_face_results_attempt6_20260314_141649\\with_face\\visualizations\\0005_WIN_20260303_18_29_53_Pro.jpg",
+          "mask": "C:\\Users\\gunem\\studying-2dto3d\\handsegnet\\attempt6_sequential_freihand_roboflow\\test_face_results_attempt6_20260314_141649\\with_face\\masks\\0005_WIN_20260303_18_29_53_Pro.png"
+        },
+        {
+          "file": "WIN_20260303_18_29_56_Pro.jpg",
+          "status": "ok",
+          "detected": true,
+          "bbox": {
+            "x": 249,
+            "y": 331,
+            "w": 83,
+            "h": 96
+          },
+          "vis": "C:\\Users\\gunem\\studying-2dto3d\\handsegnet\\attempt6_sequential_freihand_roboflow\\test_face_results_attempt6_20260314_141649\\with_face\\visualizations\\0006_WIN_20260303_18_29_56_Pro.jpg",
+          "mask": "C:\\Users\\gunem\\studying-2dto3d\\handsegnet\\attempt6_sequential_freihand_roboflow\\test_face_results_attempt6_20260314_141649\\with_face\\masks\\0006_WIN_20260303_18_29_56_Pro.png"
+        },
+        {
+          "file": "WIN_20260303_18_30_00_Pro.jpg",
+          "status": "ok",
+          "detected": true,
+          "bbox": {
+            "x": 347,
+            "y": 324,
+            "w": 84,
+            "h": 122
+          },
+          "vis": "C:\\Users\\gunem\\studying-2dto3d\\handsegnet\\attempt6_sequential_freihand_roboflow\\test_face_results_attempt6_20260314_141649\\with_face\\visualizations\\0007_WIN_20260303_18_30_00_Pro.jpg",
+          "mask": "C:\\Users\\gunem\\studying-2dto3d\\handsegnet\\attempt6_sequential_freihand_roboflow\\test_face_results_attempt6_20260314_141649\\with_face\\masks\\0007_WIN_20260303_18_30_00_Pro.png"
+        },
+        {
+          "file": "WIN_20260303_18_30_04_Pro.jpg",
+          "status": "ok",
+          "detected": true,
+          "bbox": {
+            "x": 1007,
+            "y": 348,
+            "w": 139,
+            "h": 54
+          },
+          "vis": "C:\\Users\\gunem\\studying-2dto3d\\handsegnet\\attempt6_sequential_freihand_roboflow\\test_face_results_attempt6_20260314_141649\\with_face\\visualizations\\0008_WIN_20260303_18_30_04_Pro.jpg",
+          "mask": "C:\\Users\\gunem\\studying-2dto3d\\handsegnet\\attempt6_sequential_freihand_roboflow\\test_face_results_attempt6_20260314_141649\\with_face\\masks\\0008_WIN_20260303_18_30_04_Pro.png"
+        },
+        {
+          "file": "WIN_20260303_18_30_06_Pro.jpg",
+          "status": "ok",
+          "detected": true,
+          "bbox": {
+            "x": 845,
+            "y": 334,
+            "w": 34,
+            "h": 20
+          },
+          "vis": "C:\\Users\\gunem\\studying-2dto3d\\handsegnet\\attempt6_sequential_freihand_roboflow\\test_face_results_attempt6_20260314_141649\\with_face\\visualizations\\0009_WIN_20260303_18_30_06_Pro.jpg",
+          "mask": "C:\\Users\\gunem\\studying-2dto3d\\handsegnet\\attempt6_sequential_freihand_roboflow\\test_face_results_attempt6_20260314_141649\\with_face\\masks\\0009_WIN_20260303_18_30_06_Pro.png"
+        },
+        {
+          "file": "WIN_20260303_18_30_15_Pro.jpg",
+          "status": "ok",
+          "detected": true,
+          "bbox": {
+            "x": 869,
+            "y": 400,
+            "w": 43,
+            "h": 40
+          },
+          "vis": "C:\\Users\\gunem\\studying-2dto3d\\handsegnet\\attempt6_sequential_freihand_roboflow\\test_face_results_attempt6_20260314_141649\\with_face\\visualizations\\0010_WIN_20260303_18_30_15_Pro.jpg",
+          "mask": "C:\\Users\\gunem\\studying-2dto3d\\handsegnet\\attempt6_sequential_freihand_roboflow\\test_face_results_attempt6_20260314_141649\\with_face\\masks\\0010_WIN_20260303_18_30_15_Pro.png"
+        },
+        {
+          "file": "WIN_20260303_18_30_17_Pro.jpg",
+          "status": "ok",
+          "detected": true,
+          "bbox": {
+            "x": 970,
+            "y": 307,
+            "w": 73,
+            "h": 50
+          },
+          "vis": "C:\\Users\\gunem\\studying-2dto3d\\handsegnet\\attempt6_sequential_freihand_roboflow\\test_face_results_attempt6_20260314_141649\\with_face\\visualizations\\0011_WIN_20260303_18_30_17_Pro.jpg",
+          "mask": "C:\\Users\\gunem\\studying-2dto3d\\handsegnet\\attempt6_sequential_freihand_roboflow\\test_face_results_attempt6_20260314_141649\\with_face\\masks\\0011_WIN_20260303_18_30_17_Pro.png"
+        },
+        {
+          "file": "WIN_20260303_18_30_21_Pro.jpg",
+          "status": "ok",
+          "detected": true,
+          "bbox": {
+            "x": 798,
+            "y": 450,
+            "w": 204,
+            "h": 139
+          },
+          "vis": "C:\\Users\\gunem\\studying-2dto3d\\handsegnet\\attempt6_sequential_freihand_roboflow\\test_face_results_attempt6_20260314_141649\\with_face\\visualizations\\0012_WIN_20260303_18_30_21_Pro.jpg",
+          "mask": "C:\\Users\\gunem\\studying-2dto3d\\handsegnet\\attempt6_sequential_freihand_roboflow\\test_face_results_attempt6_20260314_141649\\with_face\\masks\\0012_WIN_20260303_18_30_21_Pro.png"
+        },
+        {
+          "file": "WIN_20260303_18_30_25_Pro.jpg",
+          "status": "ok",
+          "detected": true,
+          "bbox": {
+            "x": 372,
+            "y": 421,
+            "w": 88,
+            "h": 104
+          },
+          "vis": "C:\\Users\\gunem\\studying-2dto3d\\handsegnet\\attempt6_sequential_freihand_roboflow\\test_face_results_attempt6_20260314_141649\\with_face\\visualizations\\0013_WIN_20260303_18_30_25_Pro.jpg",
+          "mask": "C:\\Users\\gunem\\studying-2dto3d\\handsegnet\\attempt6_sequential_freihand_roboflow\\test_face_results_attempt6_20260314_141649\\with_face\\masks\\0013_WIN_20260303_18_30_25_Pro.png"
+        },
+        {
+          "file": "WIN_20260303_18_30_27_Pro.jpg",
+          "status": "ok",
+          "detected": true,
+          "bbox": {
+            "x": 469,
+            "y": 410,
+            "w": 35,
+            "h": 56
+          },
+          "vis": "C:\\Users\\gunem\\studying-2dto3d\\handsegnet\\attempt6_sequential_freihand_roboflow\\test_face_results_attempt6_20260314_141649\\with_face\\visualizations\\0014_WIN_20260303_18_30_27_Pro.jpg",
+          "mask": "C:\\Users\\gunem\\studying-2dto3d\\handsegnet\\attempt6_sequential_freihand_roboflow\\test_face_results_attempt6_20260314_141649\\with_face\\masks\\0014_WIN_20260303_18_30_27_Pro.png"
+        },
+        {
+          "file": "WIN_20260303_18_30_29_Pro.jpg",
+          "status": "ok",
+          "detected": true,
+          "bbox": {
+            "x": 349,
+            "y": 453,
+            "w": 74,
+            "h": 50
+          },
+          "vis": "C:\\Users\\gunem\\studying-2dto3d\\handsegnet\\attempt6_sequential_freihand_roboflow\\test_face_results_attempt6_20260314_141649\\with_face\\visualizations\\0015_WIN_20260303_18_30_29_Pro.jpg",
+          "mask": "C:\\Users\\gunem\\studying-2dto3d\\handsegnet\\attempt6_sequential_freihand_roboflow\\test_face_results_attempt6_20260314_141649\\with_face\\masks\\0015_WIN_20260303_18_30_29_Pro.png"
+        },
+        {
+          "file": "WIN_20260303_18_30_31_Pro.jpg",
+          "status": "ok",
+          "detected": true,
+          "bbox": {
+            "x": 394,
+            "y": 398,
+            "w": 44,
+            "h": 75
+          },
+          "vis": "C:\\Users\\gunem\\studying-2dto3d\\handsegnet\\attempt6_sequential_freihand_roboflow\\test_face_results_attempt6_20260314_141649\\with_face\\visualizations\\0016_WIN_20260303_18_30_31_Pro.jpg",
+          "mask": "C:\\Users\\gunem\\studying-2dto3d\\handsegnet\\attempt6_sequential_freihand_roboflow\\test_face_results_attempt6_20260314_141649\\with_face\\masks\\0016_WIN_20260303_18_30_31_Pro.png"
+        },
+        {
+          "file": "WhatsApp Image 2026-03-06 at 1.41.12 PM.jpeg",
+          "status": "ok",
+          "detected": true,
+          "bbox": {
+            "x": 92,
+            "y": 335,
+            "w": 239,
+            "h": 285
+          },
+          "vis": "C:\\Users\\gunem\\studying-2dto3d\\handsegnet\\attempt6_sequential_freihand_roboflow\\test_face_results_attempt6_20260314_141649\\with_face\\visualizations\\0017_WhatsApp_Image_2026-03-06_at_1.41.12_PM.jpg",
+          "mask": "C:\\Users\\gunem\\studying-2dto3d\\handsegnet\\attempt6_sequential_freihand_roboflow\\test_face_results_attempt6_20260314_141649\\with_face\\masks\\0017_WhatsApp_Image_2026-03-06_at_1.41.12_PM.png"
+        },
+        {
+          "file": "WhatsApp Image 2026-03-08 at 6.12.41 PM.jpeg",
+          "status": "ok",
+          "detected": true,
+          "bbox": {
+            "x": 358,
+            "y": 1038,
+            "w": 341,
+            "h": 284
+          },
+          "vis": "C:\\Users\\gunem\\studying-2dto3d\\handsegnet\\attempt6_sequential_freihand_roboflow\\test_face_results_attempt6_20260314_141649\\with_face\\visualizations\\0018_WhatsApp_Image_2026-03-08_at_6.12.41_PM.jpg",
+          "mask": "C:\\Users\\gunem\\studying-2dto3d\\handsegnet\\attempt6_sequential_freihand_roboflow\\test_face_results_attempt6_20260314_141649\\with_face\\masks\\0018_WhatsApp_Image_2026-03-08_at_6.12.41_PM.png"
+        }
+      ]
+    },
+    {
+      "split": "without_face",
+      "input_dir": "C:/Users/gunem/studying-2dto3d/alldata/test_Images_without_face",
+      "total": 8,
+      "detected": 8,
+      "not_detected": 0,
+      "detection_rate": 100.0,
+      "results": [
+        {
+          "file": "WhatsApp Image 2026-03-01 at 5.36.32 PM (1).jpeg",
+          "status": "ok",
+          "detected": true,
+          "bbox": {
+            "x": 518,
+            "y": 831,
+            "w": 166,
+            "h": 149
+          },
+          "vis": "C:\\Users\\gunem\\studying-2dto3d\\handsegnet\\attempt6_sequential_freihand_roboflow\\test_face_results_attempt6_20260314_141649\\without_face\\visualizations\\0000_WhatsApp_Image_2026-03-01_at_5.36.32_PM__1_.jpg",
+          "mask": "C:\\Users\\gunem\\studying-2dto3d\\handsegnet\\attempt6_sequential_freihand_roboflow\\test_face_results_attempt6_20260314_141649\\without_face\\masks\\0000_WhatsApp_Image_2026-03-01_at_5.36.32_PM__1_.png"
+        },
+        {
+          "file": "WhatsApp Image 2026-03-01 at 5.36.32 PM.jpeg",
+          "status": "ok",
+          "detected": true,
+          "bbox": {
+            "x": 616,
+            "y": 565,
+            "w": 51,
+            "h": 63
+          },
+          "vis": "C:\\Users\\gunem\\studying-2dto3d\\handsegnet\\attempt6_sequential_freihand_roboflow\\test_face_results_attempt6_20260314_141649\\without_face\\visualizations\\0001_WhatsApp_Image_2026-03-01_at_5.36.32_PM.jpg",
+          "mask": "C:\\Users\\gunem\\studying-2dto3d\\handsegnet\\attempt6_sequential_freihand_roboflow\\test_face_results_attempt6_20260314_141649\\without_face\\masks\\0001_WhatsApp_Image_2026-03-01_at_5.36.32_PM.png"
+        },
+        {
+          "file": "WhatsApp Image 2026-03-01 at 5.36.33 PM (1).jpeg",
+          "status": "ok",
+          "detected": true,
+          "bbox": {
+            "x": 559,
+            "y": 801,
+            "w": 52,
+            "h": 75
+          },
+          "vis": "C:\\Users\\gunem\\studying-2dto3d\\handsegnet\\attempt6_sequential_freihand_roboflow\\test_face_results_attempt6_20260314_141649\\without_face\\visualizations\\0002_WhatsApp_Image_2026-03-01_at_5.36.33_PM__1_.jpg",
+          "mask": "C:\\Users\\gunem\\studying-2dto3d\\handsegnet\\attempt6_sequential_freihand_roboflow\\test_face_results_attempt6_20260314_141649\\without_face\\masks\\0002_WhatsApp_Image_2026-03-01_at_5.36.33_PM__1_.png"
+        },
+        {
+          "file": "WhatsApp Image 2026-03-01 at 5.36.33 PM (2).jpeg",
+          "status": "ok",
+          "detected": true,
+          "bbox": {
+            "x": 568,
+            "y": 906,
+            "w": 78,
+            "h": 52
+          },
+          "vis": "C:\\Users\\gunem\\studying-2dto3d\\handsegnet\\attempt6_sequential_freihand_roboflow\\test_face_results_attempt6_20260314_141649\\without_face\\visualizations\\0003_WhatsApp_Image_2026-03-01_at_5.36.33_PM__2_.jpg",
+          "mask": "C:\\Users\\gunem\\studying-2dto3d\\handsegnet\\attempt6_sequential_freihand_roboflow\\test_face_results_attempt6_20260314_141649\\without_face\\masks\\0003_WhatsApp_Image_2026-03-01_at_5.36.33_PM__2_.png"
+        },
+        {
+          "file": "WhatsApp Image 2026-03-01 at 5.36.33 PM.jpeg",
+          "status": "ok",
+          "detected": true,
+          "bbox": {
+            "x": 456,
+            "y": 295,
+            "w": 87,
+            "h": 123
+          },
+          "vis": "C:\\Users\\gunem\\studying-2dto3d\\handsegnet\\attempt6_sequential_freihand_roboflow\\test_face_results_attempt6_20260314_141649\\without_face\\visualizations\\0004_WhatsApp_Image_2026-03-01_at_5.36.33_PM.jpg",
+          "mask": "C:\\Users\\gunem\\studying-2dto3d\\handsegnet\\attempt6_sequential_freihand_roboflow\\test_face_results_attempt6_20260314_141649\\without_face\\masks\\0004_WhatsApp_Image_2026-03-01_at_5.36.33_PM.png"
+        },
+        {
+          "file": "WhatsApp Image 2026-03-01 at 5.36.34 PM (1).jpeg",
+          "status": "ok",
+          "detected": true,
+          "bbox": {
+            "x": 510,
+            "y": 518,
+            "w": 61,
+            "h": 111
+          },
+          "vis": "C:\\Users\\gunem\\studying-2dto3d\\handsegnet\\attempt6_sequential_freihand_roboflow\\test_face_results_attempt6_20260314_141649\\without_face\\visualizations\\0005_WhatsApp_Image_2026-03-01_at_5.36.34_PM__1_.jpg",
+          "mask": "C:\\Users\\gunem\\studying-2dto3d\\handsegnet\\attempt6_sequential_freihand_roboflow\\test_face_results_attempt6_20260314_141649\\without_face\\masks\\0005_WhatsApp_Image_2026-03-01_at_5.36.34_PM__1_.png"
+        },
+        {
+          "file": "WhatsApp Image 2026-03-01 at 5.36.34 PM (2).jpeg",
+          "status": "ok",
+          "detected": true,
+          "bbox": {
+            "x": 354,
+            "y": 900,
+            "w": 121,
+            "h": 165
+          },
+          "vis": "C:\\Users\\gunem\\studying-2dto3d\\handsegnet\\attempt6_sequential_freihand_roboflow\\test_face_results_attempt6_20260314_141649\\without_face\\visualizations\\0006_WhatsApp_Image_2026-03-01_at_5.36.34_PM__2_.jpg",
+          "mask": "C:\\Users\\gunem\\studying-2dto3d\\handsegnet\\attempt6_sequential_freihand_roboflow\\test_face_results_attempt6_20260314_141649\\without_face\\masks\\0006_WhatsApp_Image_2026-03-01_at_5.36.34_PM__2_.png"
+        },
+        {
+          "file": "WhatsApp Image 2026-03-01 at 5.36.34 PM.jpeg",
+          "status": "ok",
+          "detected": true,
+          "bbox": {
+            "x": 701,
+            "y": 1162,
+            "w": 90,
+            "h": 82
+          },
+          "vis": "C:\\Users\\gunem\\studying-2dto3d\\handsegnet\\attempt6_sequential_freihand_roboflow\\test_face_results_attempt6_20260314_141649\\without_face\\visualizations\\0007_WhatsApp_Image_2026-03-01_at_5.36.34_PM.jpg",
+          "mask": "C:\\Users\\gunem\\studying-2dto3d\\handsegnet\\attempt6_sequential_freihand_roboflow\\test_face_results_attempt6_20260314_141649\\without_face\\masks\\0007_WhatsApp_Image_2026-03-01_at_5.36.34_PM.png"
+        }
+      ]
+    }
+  ]
+}

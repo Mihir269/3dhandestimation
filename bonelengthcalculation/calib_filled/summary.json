@@ -1,0 +1,18 @@
+{
+  "marker_kind": "filled_colour_square",
+  "square_mm": 20.0,
+  "n_files": 18,
+  "n_frames_seen": 49,
+  "n_frames_used": 32,
+  "mediapipe_backend": "tasks",
+  "map_methods": {
+    "homography": 640
+  },
+  "mean_cv_pct": 1.920556564282968,
+  "reference_bone": "Middle_MCP_PIP",
+  "reference_mm": 49.38454818725586,
+  "parallax": {
+    "mode": "failed",
+    "reason": "no EXIF focal length / too few frames"
+  }
+}
